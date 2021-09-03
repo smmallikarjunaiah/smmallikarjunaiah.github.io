@@ -1,0 +1,20 @@
+- name: "Contact"
+  link: "https://maria-antoniak.github.io/contact"
+
+- name: "Resources"
+  link: "https://maria-antoniak.github.io/resources"
+
+- name: "Code"
+  link: "https://github.com/maria-antoniak"
+
+- name: "Blog"
+  link: "https://maria-antoniak.github.io/blog"
+
+- name: "Publications"
+  link: "https://maria-antoniak.github.io/publications"
+
+- name: "CV"
+  link: "https://maria-antoniak.github.io/cv"
+
+- name: "About"
+  link: "https://maria-antoniak.github.io/"
