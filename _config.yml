@@ -12,3 +12,4 @@ tracking_id: UA-156013933-1
 sass:
     style: compressed
     sass_dir: _sass
+theme: jekyll-theme-cayman
