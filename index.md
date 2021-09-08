@@ -4,13 +4,13 @@ layout: default
 
 <br>
 
-<img src="me_banner.jpg">
+<img src="mmuddama.jpg">
 
 <br>
 
 ## About
 
-<!-- <img class="profile-picture" src="me.png"> -->
+<!-- <img class="profile-picture" src="mmuddama.jpg"> -->
 
 I'm a researcher and data scientist working in natural language processing, computational social science, and cultural analytics. I'm interested in modeling how people communicate about their personal experiences through text, especially when these communications occur in online communities centered on healthcare support or cultural objects like books or games. My research relies on unsupervised machine learning methods and re-explores the reliability and evaluation of these methods when applied to small, socially-specific datasets. 
 
