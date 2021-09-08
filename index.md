@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: default
 ---
 
 <br>
 
-<img src="mmuddama.jpg">
+<img src="mmuddama.jpg" style="width:50%">
 
 <br>
 
