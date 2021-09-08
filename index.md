@@ -2,21 +2,20 @@
 layout: default
 ---
 
-<br>
-
-<img src="mmuddama.jpg" style="width:50%">
-
-<br>
-
 ## About
 
-<!-- <img class="profile-picture" src="mmuddama.jpg"> -->
+<img class="profile-picture" src="mmuddama.jpg" style="width:50%">
 
-I'm a researcher and data scientist working in natural language processing, computational social science, and cultural analytics. I'm interested in modeling how people communicate about their personal experiences through text, especially when these communications occur in online communities centered on healthcare support or cultural objects like books or games. My research relies on unsupervised machine learning methods and re-explores the reliability and evaluation of these methods when applied to small, socially-specific datasets. 
+Assistant Professor
+S&E - Math/Statistics Sciences
 
-My past work has examined how postpartum people share and frame their [birth experiences](https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf), how online book reviewers use and write about [genres](https://maria-antoniak.github.io/resources/2021_cscw_librarything_genres.pdf), and how the use of word embedding models requires additional [stability tests](https://maria-antoniak.github.io/resources/2018_evaluating_stability.pdf) when used to measure biases.
+Welcome to my homepage. I am a visiting assistant professor in the Department of Mathematics at UConn. Prior to this, I was a visiting assistant professor at the University of Maine. I completed my Ph.D in Mathematics under the supervision of Prof. Qingkai Kong from Northern Illinois University in 2017.
 
-I'm currently a PhD candidate in [Information Science](http://infosci.cornell.edu/) at Cornell University, where I'm advised by [David Mimno](https://mimno.infosci.cornell.edu/). I have a master's degree in [Computational Linguistics](https://www.compling.uw.edu/) from the University of Washington and have worked as a data scientist and research intern at places like [Microsoft Research](https://www.microsoft.com/en-us/research/), [Facebook Core Data Science](https://research.fb.com/core-data-science/), and [Pacific Northwest National Laboratory](https://www.pnl.gov/).
+This year I am in the job market. I am looking for a tenure-track position in mathematical sciences. I am planning to consolidate all relevant information available via this website.
+
+My research interests are in mainly in differential equations, primarily in boundary value problems and eigenvalue problems. I enjoy having conversations about mathematical and functional inequalities and their applications to differential equations. Lately, I started to explore some areas of mathematical physics and inverse problems. I am always happy to chat about my work and interested to know about my peers work. If you are interested, please feel free to to contact me. If you are a student and interested to work with me, please send me an email with your interest and background and we can have a conversation about that.
+
+Beside mathematics, I enjoy hiking, rock climbing, and traveling. I have traveled to 35 states within the USA and I envision being a member of the 50 state club someday. I am a gastronomer and enjoy seafood the most (living in New England helps!). Italian and Japanese are two of my favorite cuisines- for me, distance is a mere number for fine cheese and delectable sushi! Other than the food, I am passionate about coffee, perfume, and single malt scotch. Cheers to that!
 
 **I'll be on the job market starting in Fall 2021.** Please reach out if you think I'd be a good fit for your academic department or industry research group.
 
