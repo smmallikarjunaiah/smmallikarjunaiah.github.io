@@ -6,6 +6,7 @@ layout: default
 
 <img class="profile-picture" src="mmuddama.jpg">
 
+Jaimin
 Assistant Professor
 S&E - Math/Statistics Sciences
 
