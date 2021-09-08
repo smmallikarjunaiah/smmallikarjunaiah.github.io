@@ -1,18 +1,25 @@
 # main links links
 main:
 
-  - title: "Presentations"
-    url: /talks/    
+  - title: "Home"
+    url: https://jaiminbrahmbhatt.github.io/testport/
+
+  - title: "Research"
+    url: /research/
+  
+  - title: "Teaching"
+    url: /teaching/  
 
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Presentations"
+    url: /presentations/    
+
+
+
+  
     
-  - title: "Research"
-    url: /research/
+
     
-  - title: "home"
-    url: https://jaiminbrahmbhatt.github.io/testport/
     
