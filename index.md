@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-<img class="profile-picture" src="mmuddama.jpg" style="width:50%">
+<img class="profile-picture" src="mmuddama.jpg">
 
 Assistant Professor
 S&E - Math/Statistics Sciences
