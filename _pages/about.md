@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Some Information Here
+Hey this is my new website
