@@ -1,5 +1,5 @@
 ---
-title: "COSC 3100"
+title: "COSC 1100"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
@@ -8,8 +8,7 @@ date: 2015-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
+Fall semester
 Heading 1
 ======
 
