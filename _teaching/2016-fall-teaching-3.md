@@ -9,6 +9,10 @@ location: "City, Country"
 ---
 
 Fall semester
+
+[Download Syllabus](https://github.com/smmallikarjunaiah/smmallikarjunaiah.github.io/raw/main/files/paper1.pdf)
+
+
 Heading 1
 ======
 
